@@ -8,6 +8,9 @@ I dont know, to be honest I was just watching some YouTube Videos and got a idea
 # Links
 
 Web- https://btechcse.tripathisarthak15.workers.dev/
+
+
 APK for Android - https://github.com/tripathisarthak15/btech-cse-index/releases/download/publish/v1_stable_inDex.apk
+
 
 v1 Release Page- https://github.com/tripathisarthak15/btech-cse-index/releases/tag/publish
