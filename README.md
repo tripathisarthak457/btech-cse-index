@@ -1,5 +1,5 @@
 # inDex (B.Tech CSE)
-Do you usually find yourself in a situation where you are trying to find notes/PDFs of a particular chapter and asking your friends for them but nothing is found? I guess I have developed a solution for it. From now on, you can use my app and website to accesss all the notes and other material. Everything is hosted on a cloud server and proper a backup is maintained.
+Do you usually find yourself in a situation where you are trying to find notes/PDFs of a particular chapter and asking your friends for them but nothing is found? I guess I have developed a solution for it. From now on, you can use my app and website to accesss all the notes and other material. Everything is hosted on a cloud server and proper a backup is maintained. Server is capable enough for supplying small PDFs and videos to few hundred people at a time and it is backed by Google.
 
 
 # How did I made this?
