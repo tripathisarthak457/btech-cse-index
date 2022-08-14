@@ -5,9 +5,9 @@ Do you usually find yourself in a situation where you are trying to find notes/P
 My app is not a pure native app at the moment it is a combination of WebView and Native Elements in ratio (9:1).
 
 # Thank You
-Thank you Jugal & Raghav for helping me in the development.
+Thank you Jugal, Chirag & Raghav for helping me in the development.
 
-Thank you Shivesh, Tanishq, Abha, Shristi, Sanjana, Raghav, Jugal for testing the apps and helping me in solving the issues.
+Thank you Shivesh, Chirag, Tanishq, Abha, Shristi, Sanjana, Raghav, Jugal for testing the apps and helping me in solving the issues.
 
 Thank you Sanjana for supplying me with the database (notes etc).
 
