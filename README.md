@@ -6,9 +6,13 @@ My app is not a pure native app at the moment it is a combination of WebView and
 
 # Thank You
 Thank you Jugal & Raghav for helping me in the development.
+
 Thank you Shivesh, Tanishq, Abha, Shristi, Sanjana, Raghav, Jugal for testing the apps and helping me in solving the issues.
+
 Thank you Sanjana for supplying me with the database (notes etc).
+
 Thank you everyone who helped me in achieving this. 
+
 Thank you to the users of this app for the love and feedback.
 
 
