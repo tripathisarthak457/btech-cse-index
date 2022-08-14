@@ -31,3 +31,8 @@ v1 Release Page- https://github.com/tripathisarthak15/btech-cse-index/releases/t
 
 # Report
 Report Bugs or give new ideas using the Contact Option in the APP.
+
+
+# Why the Source code is not available completely?
+
+The source code has my auth token and credentials and I am still learning that how they should be removed. 
