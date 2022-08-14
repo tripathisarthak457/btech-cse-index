@@ -19,7 +19,19 @@ Thank you to the users of this app for the love and feedback.
 
 They can be found at: https://btechcse.tripathisarthak15.workers.dev/0:/BTech_CSE_21_25/Screenshots/
 
+# General Issues
 
+1. Blocked by Play Protect- App is 100% safe, this issue arises because of Google. Blame Google. You can click on Install Anyway.
+
+2. Worker Threw Exception- Cloudflare sometimes crashes due to some errors in the backend. Reload and it will not come 
+
+3. Not Loading or Downloading- Clear Data of app, if not solved reach me.
+
+4. Not Connected to the Internet- Check your connection.
+
+5. Asks for username/password- press Home and don't use that portion of the app it is not for users.
+
+ 
 # How did I made this?
 I dont know, to be honest I was just watching some YouTube Videos and got a idea to make something like this. I learnt very basic designing, used some online engines and the the good old AndroidStudio for the apk. For the website, everything is taken from GitHub and my Configs are applied on top of that. 
 
