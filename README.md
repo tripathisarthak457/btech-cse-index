@@ -15,6 +15,10 @@ Thank you everyone who helped me in achieving this.
 
 Thank you to the users of this app for the love and feedback.
 
+# Screenshots
+
+They can be found at: https://btechcse.tripathisarthak15.workers.dev/0:/BTech_CSE_21_25/Screenshots/
+
 
 # How did I made this?
 I dont know, to be honest I was just watching some YouTube Videos and got a idea to make something like this. I learnt very basic designing, used some online engines and the the good old AndroidStudio for the apk. For the website, everything is taken from GitHub and my Configs are applied on top of that. 
