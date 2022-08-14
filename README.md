@@ -4,6 +4,13 @@ Do you usually find yourself in a situation where you are trying to find notes/P
 # About the App
 My app is not a pure native app at the moment it is a combination of WebView and Native Elements in ratio (9:1).
 
+# Thank You
+Thank you Jugal & Raghav for helping me in the development.
+Thank you Shivesh, Tanishq, Abha, Shristi, Sanjana, Raghav, Jugal for testing the apps and helping me in solving the issues.
+Thank you Sanjana for supplying me with the database (notes etc).
+Thank you everyone who helped me in achieving this. 
+Thank you to the users of this app for the love and feedback.
+
 
 # How did I made this?
 I dont know, to be honest I was just watching some YouTube Videos and got a idea to make something like this. I learnt very basic designing, used some online engines and the the good old AndroidStudio for the apk. For the website, everything is taken from GitHub and my Configs are applied on top of that. 
