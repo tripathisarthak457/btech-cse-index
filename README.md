@@ -45,6 +45,24 @@ APK for Android - https://github.com/tripathisarthak15/btech-cse-index/releases/
 
 v1 Release Page- https://github.com/tripathisarthak15/btech-cse-index/releases/tag/publish
 
+
+# How to search for files quickly?
+I have made a search option which can be found under the drop down menu in the top right corner.
+
+Type your search query properly with the set syntax. For example, if you want to find the notes for Object-Oriented Programming on the topic Programming Paradigne which were discussed in class on 9th August, 2022 taken by a teacher named AJ. You can search for these using the file name of the PDFs which is written like:
+
+<SubjectShortName>.<TopicName>.<DDMMYY>.<TeacherInitials>
+For the above subject the code will be
+SubjectShortName:- OOP
+Topic Name:- Programming Paradigne
+DDMMYY:- 090822
+TeacherInitials:- AJ
+
+FileName: - OOP.ProgrammingParadigne.090822.AJ.pdf
+            OOP.ProgrammingParadigne.090822.AJ
+            
+You can either search using the File name or any of the code words mentioned above. FileName would give you exact file. CodeWords will give you all the files in that code.
+
 # Report
 Report Bugs or give new ideas using the Contact Option in the APP.
 
