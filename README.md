@@ -52,17 +52,17 @@ I have made a search option which can be found under the drop down menu in the t
 Type your search query properly with the set syntax. For example, if you want to find the notes for Object-Oriented Programming on the topic Programming Paradigne which were discussed in class on 9th August, 2022 taken by a teacher named AJ. You can search for these using the file name of the PDFs which is written like:
 
 
-SubjectShortName.TopicName.DDMMYY.TeacherInitials
+ SubjectShortName.TopicName.DDMMYY.TeacherInitials
  
-For the above subject the code will be
+ For the above subject the code will be
  
-SubjectShortName:- OOP
+ SubjectShortName:- OOP
  
-Topic Name:- Programming Paradigne
+ Topic Name:- Programming Paradigne
  
-DDMMYY:- 090822
+ DDMMYY:- 090822
  
-TeacherInitials:- AJ
+ TeacherInitials:- AJ
  
 
 FileName: - OOP.ProgrammingParadigne.090822.AJ.pdf
@@ -71,6 +71,10 @@ FileName: - OOP.ProgrammingParadigne.090822.AJ.pdf
  
             
 You can either search using the File name or any of the code words mentioned above. FileName would give you exact file. CodeWords will give you all the files in that code.
+
+
+For PDFs of Lab add "Lab" to your search query.
+
 
 # Report
 Report Bugs or give new ideas using the Contact Option in the APP.
