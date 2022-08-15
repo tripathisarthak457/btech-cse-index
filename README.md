@@ -73,7 +73,7 @@ FileName: - OOP.ProgrammingParadigne.090822.AJ.pdf
 You can either search using the File name or any of the code words mentioned above. FileName would give you exact file. CodeWords will give you all the files in that code.
 
 
-For PDFs of Lab add "Lab" to your search query.
+For PDFs of Lab add "Lab" to your search query. Experiment with no. is written as Exp.num -> Example= DE.Lab.Exp0.Introduction
 
 
 # Report
