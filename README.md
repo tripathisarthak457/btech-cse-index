@@ -7,6 +7,8 @@ My app is not a pure native app at the moment it is a combination of WebView and
 # Thank You
 Thank you YouTube, Jugal, Chirag & Raghav for helping me in the development.
 
+Thank you Raghav for designing the app icon.
+
 Thank you Shivesh, Chirag, Tanishq, Abha, Shristi, Sanjana, Raghav, Jugal & Namrata for testing the apps and helping me in solving the issues.
 
 Thank you Sanjana & Namrata for supplying me with the database (notes etc).
