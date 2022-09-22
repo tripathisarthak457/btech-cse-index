@@ -39,10 +39,10 @@ I dont know, to be honest I was just watching some YouTube Videos and got a idea
 
 # Links
 
-Web- https://btechcse.tripathisarthak15.workers.dev/
+Web- https://btechcse.tripathisarthak15.workers.dev/0:/BTech_CSE_21_25/
 
 
-APK for Android - https://github.com/tripathisarthak15/btech-cse-index/releases/download/publish1.2/v1.2_stable_inDex.apk
+APK for Android - https://github.com/tripathisarthak15/btech-cse-index/releases/download/publish1.4/v1.4_inDex.apk
 
 
 v1 Release Page- https://github.com/tripathisarthak15/btech-cse-index/releases/tag/publish
