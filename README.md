@@ -62,14 +62,14 @@ Type your search query properly with the set syntax. For example, if you want to
  
  Topic Name:- Programming Paradigne
  
- DDMMYY:- 090822
+ DDMMYY:- 09.08.22
  
  TeacherInitials:- AJ
  
 
-FileName: - OOP.Programming.Paradigne.090822.AJ.pdf
+FileName: - OOP.Programming.Paradigne.09.08.22.AJ.pdf
  
-            OOP.Programming.Paradigne.090822.AJ
+            OOP.Programming.Paradigne.09.08.22.AJ
  
             
 You can either search using the File name or any of the code words mentioned above. FileName would give you exact file. CodeWords will give you all the files in that code.
