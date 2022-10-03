@@ -23,7 +23,7 @@ They can be found at: https://btechcse.tripathisarthak15.workers.dev/0:/BTech_CS
 
 # General Issues
 
-1. Blocked by Play Protect- App is 100% safe, this issue arises because of Google. Blame Google. You can click on Install Anyway.
+1. Blocked by Play Protect- App is 100% safe, You can click on Install Anyway.
 
 2. Worker Threw Exception- Cloudflare sometimes crashes due to some errors in the backend. Reload and it will be gone. 
 
